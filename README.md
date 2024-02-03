@@ -1,6 +1,11 @@
 # Machine Learning Project - Unsupervised Learning
 
-## EDA & Pre-Processing
+## Project Description:
+In this project, we will apply unsupervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
+
+The data set for this project is the "Wholesale Data" dataset containing information about various products sold by a grocery store.
+
+### EDA & Pre-Processing
 - Data Import: Imported the dataset 
 - Data Cleaning: Checked the dataset for any missing or incorrect data and cleaned the dataset accordingly.
 - Data Description: Generated summary statistics such as mean, median, and standard deviation for each column of the dataset. 
@@ -12,16 +17,16 @@
 
 
 
-## KMeans Clustering
+### KMeans Clustering
 
 
 
-## Hierarchial Clustering
+### Hierarchial Clustering
 
 
 
 
-## PCA
+### PCA
 
 
 
