@@ -1,6 +1,26 @@
-# machine_learning_project-unsupervised-learning
+# Machine Learning Project - Unsupervised Learning
 
-## Project Outcomes
+## EDA & Pre-Processing
+
+
+
+## KMeans Clustering
+
+
+
+## Hierarchial Clustering
+
+
+
+
+## PCA
+
+
+
+
+
+
+## Outcomes
 - Unsupervised Learning: perform unsupervised learning techniques on a wholesale data dataset. The project involves four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
 ### Duration:
 Approximately 1 hour and 40 minutes
