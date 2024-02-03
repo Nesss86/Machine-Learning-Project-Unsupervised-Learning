@@ -1,6 +1,14 @@
 # Machine Learning Project - Unsupervised Learning
 
 ## EDA & Pre-Processing
+- Data Import: Imported the dataset 
+- Data Cleaning: Checked the dataset for any missing or incorrect data and cleaned the dataset accordingly.
+- Data Description: Generated summary statistics such as mean, median, and standard deviation for each column of the dataset. 
+- Data Visualization: Created various visualizations such as histograms, box plots, scatter plots, and heatmaps to understand the relationships and trends between the different variables in the dataset. F
+- Outlier Detection: Checked for any outliers in the dataset and determined whether they were valid or erroneous data points.
+- Correlation Analysis: Calculated the correlation between different variables in the dataset to determine which variables are highly correlated and which ones are not.
+- Data Transformation:Transformed the data by standardizing the variables to make them comparable across different scales.
+- Feature Selection: Identified the most important features or variables that contributed the most to the overall variance in the dataset.
 
 
 
