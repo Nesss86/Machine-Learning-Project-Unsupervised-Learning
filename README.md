@@ -4,12 +4,12 @@
 The goal of this project was to perform unsupervised learning on a "Wholesale Data" dataset. This dataset refers to clients of a wholesale distributor and includes the annual spending in monetary units (m.u.) on diverse product categories. The following stages were performed on the data set provided:
 - Exploratory data analysis
 - Preprocessing
-- Kmeans Clustering
+- KMeans Clustering
 - Hierarchial Clustering
 - PCA
 
 ## Process
-### EDA
+### EDA & Preprocessing
 
 - Generated summary statistics to look at distribution
 - Looked for missing values and outliers
@@ -28,6 +28,25 @@ The goal of this project was to perform unsupervised learning on a "Wholesale Da
 #### Sum for Each Category
 <img src="images/Channel Group & Sum For Each Category.png" alt="Notebook">
 
+#### Feature Importance
+<img src="images/Feature Importance.png" alt="Notebook">
+
+
+
+### KMeans Clustering
+The objective of the analysis was to group similar products together into clusters based on their attributes. To perform the k-means clustering analysis, the following was done:
+- Pre-processed the dataset
+- Determined the optimal number of clusters
+- Determined Cluster Centroids
+
+#### Elbow Method fpr Optimal # of Clusters
+<img src="images/Elbow Method.png" alt="Notebook">
+
+#### Cluster Centroids
+<img src="images/Cluster Centroids.png" alt="Notebook">
+
+#### Pairplot For Cluster to Show Relationship
+<img src="images/Pairplot For Clusters.png" alt="Notebook">
 
 
 
