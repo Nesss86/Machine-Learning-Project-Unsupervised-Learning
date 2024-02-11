@@ -1,7 +1,7 @@
 # Machine Learning Project - Unsupervised Learning
 
 ## Project/Goals
-The goal of this project was to perform an unsupervised learning on a "Wholesale Data" dataset. This dataset refers to clients of a wholesale distributor and includes the annual spending in monetary units (m.u.) on diverse product categories. The following stages were performed on the data set provided:
+The goal of this project was to perform unsupervised learning on a "Wholesale Data" dataset. This dataset refers to clients of a wholesale distributor and includes the annual spending in monetary units (m.u.) on diverse product categories. The following stages were performed on the data set provided:
 - Exploratory data analysis
 - Preprocessing
 - Kmeans Clustering
@@ -13,7 +13,10 @@ The goal of this project was to perform an unsupervised learning on a "Wholesale
 
 - Looked for missing values and outliers
 - Generated summary statistics to look at distribution
-- Generated a Correlation heatmap to see which variables had the strongest relationship
+- Generated a Correlation matrix to see which variables had the strongest relationship
+
+<img src="images/Correlation Matrix - Unsupervised Learning.png" alt="Notebook">
+<img src="images/Correlation Matrix.png" alt="Notebook">
 
 
 
