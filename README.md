@@ -18,10 +18,13 @@ The goal of this project was to perform unsupervised learning on a "Wholesale Da
 - Determined Feature Importance
 #### Summary Statistics Outcome
 <img src="images/Summary Statistics (Unsupervised Learning).png" alt="Notebook">
+
 #### Boxplot For Outliers
 <img src="images/Boxplot for Outliers.png" alt="Notebook">
+
 #### Correlation Matrix
 <img src="images/Correlation Matrix - Unsupervised Learning.png" alt="Notebook">
+
 #### Sum for Each Category
 <img src="images/Channel Group & Sum For Each Category.png" alt="Notebook">
 
