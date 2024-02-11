@@ -17,10 +17,10 @@ The goal of this project was to perform unsupervised learning on a "Wholesale Da
 - Grouped by 'Channel' and calculated the sum for each category to see where there was the most spending
 - Determined Feature Importance
 
-<img src="images/Summary Statistics(Unsupervised Learning).png" alt="Notebook">
+<img src="images/Summary Statistics (Unsupervised Learning).png" alt="Notebook">
 <img src="images/Boxplot for Outliers.png" alt="Notebook">
 <img src="images/Correlation Matrix - Unsupervised Learning.png" alt="Notebook">
-<img src="images/Channel Group & Sum of Each Category.png" alt="Notebook">
+<img src="images/Channel Group & Sum For Each Category.png" alt="Notebook">
 
 
 
