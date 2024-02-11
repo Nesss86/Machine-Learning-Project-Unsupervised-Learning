@@ -61,10 +61,10 @@ Hierarchical clustering was used to identify patterns and group similar data poi
 Principal component analysis (PCA) was performed to draw conclusions about the underlying structure of the wholesale customer data. Since using PCA on a dataset calculates the dimensions which best maximize variance, we will find which compound combinations of features best describe customers.
 
 #### Feature Loadings determined to indicate the contribution of each original feature to each principal component.
-<img src="images/.png" alt="Notebook">
+<img src="images/Feature Loading.png" alt="Notebook">
 
 #### Cumulative explained variance plot was used to help decide how many principal components to retain. Scatter plot was generated to visualize the first two principal components.
-<img src="images/.png" alt="Notebook">
+<img src="images/Cumulative Explained Variance & Scatter Plot.png" alt="Notebook">
 
 
 
