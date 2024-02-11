@@ -49,6 +49,15 @@ The objective of the analysis was to group similar products together into cluste
 <img src="images/Pairplot For Clusters.png" alt="Notebook">
 
 
+#### Hierarchial Clustering
+
+Hierarchical clustering was used to identify patterns and group similar data points together in a hierarchy, resulting in a dendrogram
+
+#### Dendrogram
+<img src="images/Hierarchial Dendrogram.png" alt="Notebook">
+
+
+
 
 
 ## Project Outcomes
